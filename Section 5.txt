@@ -1,0 +1,2 @@
+Medium Arcticle on Deploying a Shiny for Python app
+https://medium.com/@bert.gollnick/deploy-shiny-for-python-apps-with-github-pages-84cb8abbf7bf
